@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Armağan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Junior Developer</h3>
 
 - 🔭 I’m currently working on [https://github.com/aliarmgnuygun/Kodluyoruz-Patika-Projects](https://github.com/aliarmgnuygun/Kodluyoruz-Patika-Projects)
 
