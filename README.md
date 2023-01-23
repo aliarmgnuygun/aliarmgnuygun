@@ -12,6 +12,7 @@
 - 📫 How to reach me **aliarmaganuygun@gmail.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarmgnuygun&show_icons=true&theme=monokai)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarmgnuygun&layout=compact&theme=monokai)](https://github.com/aliarmgnuygun/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
