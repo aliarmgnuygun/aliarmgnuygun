@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Armağan</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
-- 🔭 I’m currently working on [https://github.com/aliarmgnuygun/Kodluyoruz-Patika-Projects](https://github.com/aliarmgnuygun/Kodluyoruz-Patika-Projects)
-
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java spring boot and design patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliarmgnuygun](https://github.com/aliarmgnuygun)
-
-- 💬 Ask me about **java**
 
 - 📫 How to reach me **aliarmaganuygun@gmail.com**
 
