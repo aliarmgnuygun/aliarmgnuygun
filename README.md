@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **aliarmaganuygun@gmail.com**
 
+- My resume : https://flowcv.com/resume/nu123dk7eu
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarmgnuygun&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarmgnuygun&layout=compact&theme=prussian)](https://github.com/aliarmgnuygun/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
