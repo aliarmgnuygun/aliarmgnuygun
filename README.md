@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Armağan</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **java spring boot and design patterns**
+- 🌱 I’m currently learning **python, java spring boot and design patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliarmgnuygun](https://github.com/aliarmgnuygun)
 
