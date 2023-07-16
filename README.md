@@ -5,7 +5,7 @@
 In my career, I aspire to specialize in software development and acquire proficiency in cloud technologies. In the future, I plan to specialize in DevOps and the management of cloud-based systems. I am also interested in pursuing a managerial position, as I have always played a unifying and supportive role among my peers. I believe that my leadership qualities and organizational skills would be an asset in a managerial role.
 </p>
   
-- 🌱 I’m currently learning **C#,dotNet and ASP.NET Core MVC**
+- 🌱 I’m currently learning **C#,.Net, Onion Architecture and ASP.NET Core MVC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliarmgnuygun](https://github.com/aliarmgnuygun)
 
