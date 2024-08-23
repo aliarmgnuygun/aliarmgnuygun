@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali Armağan</h1>
-<h3 align="center">Computer Engineering Student & Software Developer at @FordOtosan </h3>
+<h3 align="center">Software Developer </h3>
 
 <p align="left">
-In my career, I aspire to specialize in software development and acquire proficiency in cloud technologies. In the future, I plan to specialize in DevOps and the management of cloud-based systems. I am also interested in pursuing a managerial position, as I have always played a unifying and supportive role among my peers. I believe that my leadership qualities and organizational skills would be an asset in a managerial role.
+Hello! I'm Ali Armağan, a recent graduate and a software developer. I am eager to learn, constantly looking to improve myself, and open to new innovations. My focus is on specializing in backend development, with an aim to eventually dive into cloud technologies.
+
+Through various projects, I've gained solid experience in web-based applications. I'm always ready to keep up with the latest trends in technology and implement these innovations in my work.
+
+I'm excited about collaborating on new projects and sharing knowledge in the field of software development. Thank you for visiting my profile!
 </p>
   
-- 🌱 I’m currently learning **C#,.Net, Onion Architecture and ASP.NET Core MVC**
+- 🌱 I’m currently learning **ASP.NET Core WebApi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliarmgnuygun](https://github.com/aliarmgnuygun)
 
